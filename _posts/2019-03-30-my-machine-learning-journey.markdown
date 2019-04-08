@@ -5,8 +5,6 @@ date: 2019-03-30 16:52:00 +0530
 categories: machinelearning ml machine learning
 ---
 
-# The beginning of my Machine Learning journey — Introduction
-
 This is the start of my Machine Learning journey. My plan is to learn from different sources and write my notes here. The idea of these notes is to refer back to a certain topic when I need and also to augment my learning process.
 
 ![](https://cdn-images-1.medium.com/max/800/1*hEbJvltnslRrdEzjWQ7Img.jpeg)
