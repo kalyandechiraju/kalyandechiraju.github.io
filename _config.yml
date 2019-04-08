@@ -24,7 +24,7 @@ github_username: kalyandechiraju
 
 # Build settings
 markdown: kramdown
-#theme: inded/Jekyll_modern-blog
+theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
