@@ -2,6 +2,7 @@
 layout: default
 title: "The beginning of my Machine Learning journey — Introduction"
 date: 2019-03-30 16:52:00 +0530
+image: "https://cdn-images-1.medium.com/max/800/1*hEbJvltnslRrdEzjWQ7Img.jpeg"
 categories: machinelearning ml machine learning
 ---
 
