@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Machine Learning Journey begins"
+title: "The beginning of my Machine Learning journey — Introduction"
 date: 2019-03-30 16:52:00 +0530
 categories: machinelearning ml machine learning
 ---
