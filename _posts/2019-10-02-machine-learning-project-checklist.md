@@ -6,6 +6,7 @@ image: "assets/images/checklist.jpg"
 # avatar: "img/avatar.jpeg"
 categories: machinelearning
 featured: true
+tags: "machinelearning"
 ---
 
 This checklist can guide you through your Machine Learning projects.
