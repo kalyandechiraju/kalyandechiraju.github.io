@@ -9,7 +9,7 @@ categories: machinelearning
 
 This is the start of my Machine Learning journey. My plan is to learn from different sources and write my notes here. The idea of these notes is to refer back to a certain topic when I need and also to augment my learning process.
 
-<!-- ![](https://cdn-images-1.medium.com/max/800/1*hEbJvltnslRrdEzjWQ7Img.jpeg) -->
+![](https://cdn-images-1.medium.com/max/800/1*hEbJvltnslRrdEzjWQ7Img.jpeg)
 
 Machine Learning is the science of programming computers so they can _learn from data_. A simple example of a Machine Learning program is a spam filter which we daily benefit from, in our email client.
 

@@ -7,7 +7,7 @@ avatar: "img/avatar.jpeg"
 categories: machinelearning
 ---
 
-![checklist.png](/assets/images/checklist.png)
+![checklist.png](/assets/images/checklist.jpg)
 
 # ML-Project-Checklist
 
