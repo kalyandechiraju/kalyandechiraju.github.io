@@ -10,7 +10,6 @@ categories: machinelearning
 ### ML-Project-Checklist
 
 This checklist can guide you through your Machine Learning projects.
-
 There are eight main steps:
 
 1. Frame the problem and look at the big picture.
