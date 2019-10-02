@@ -34,13 +34,8 @@ texture:
 # - about.md
 
 # Build settings
-<<<<<<< HEAD
 # theme: texture
 
-=======
-markdown: kramdown
-remote_theme: thelehhman/texture
->>>>>>> 4e6a081191620bface7d9fba0851d3dd4ea5fe3e
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
