@@ -7,7 +7,7 @@ avatar: "img/avatar.jpeg"
 categories: machinelearning
 ---
 
-# ML-Project-Checklist
+### ML-Project-Checklist
 
 This checklist can guide you through your Machine Learning projects.
 
