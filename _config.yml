@@ -24,7 +24,7 @@ github_username: kalyandechiraju
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: thelehhman/texture
 plugins:
   - jekyll-feed
 # Exclude from processing.
