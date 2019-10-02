@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Machine Learning project checklist"
-date: 2019-03-30 16:52:00 +0530
-image: "https://cdn-images-1.medium.com/max/800/1*hEbJvltnslRrdEzjWQ7Img.jpeg"
-avatar: "img/avatar.jpeg"
+date: 2019-10-02 10:00:00 +0530
+image: "/assets/images/checklist.jpg"
+# avatar: "img/avatar.jpeg"
 categories: machinelearning
 ---
 
@@ -21,8 +21,6 @@ There are eight main steps:
 8. Launch, monitor and maintain your system.
 
 Remember to adapt this checklist as per your needs.
-
-![](/assets/images/checklist.jpg)
 
 ### Frame the problem and Look at the Big Picture
 
