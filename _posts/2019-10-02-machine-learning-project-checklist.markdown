@@ -88,19 +88,19 @@ Notes:
 
 1. Data Cleaning:
 
-- Fix or remove outliers (optional).
-- Fill in missing values (e.g., with zero, mean, median...) or drop their rows (or columns)
+   - Fix or remove outliers (optional).
+   - Fill in missing values (e.g., with zero, mean, median...) or drop their rows (or columns)
 
 2. Feature selection (optional):
 
-- Drop the attributes that provide no useful information for the task.
+   - Drop the attributes that provide no useful information for the task.
 
 3. Feature engineering, where appropriate:
 
-- Discretize continuous features.
-- Decompose features (e.g., categorical, date/time, etc.).
-- Add promising transformations of features (e.g., log(x), sqrt(x), x^2, etc.).
-- Aggregate features into promising new features.
+   - Discretize continuous features.
+   - Decompose features (e.g., categorical, date/time, etc.).
+   - Add promising transformations of features (e.g., log(x), sqrt(x), x^2, etc.).
+   - Aggregate features into promising new features.
 
 4. Feature scaling: standardize or normalize features.
 
