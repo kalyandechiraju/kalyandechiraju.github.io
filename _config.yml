@@ -4,9 +4,9 @@ title: "Kalyan Dechiraju"
 description: "Android Developer"
 # logo: ""
 # favicon: ""
-baseurl: /
+baseurl:
 # google_analytics: ""
-# disqus: ""
+disqus: "https-kalyandechiraju-github-io"
 # mailchimp-list: ""
 include: ["_pages"]
 permalink: /:title/
