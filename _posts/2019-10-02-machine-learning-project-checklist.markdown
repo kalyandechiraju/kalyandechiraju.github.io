@@ -20,6 +20,8 @@ There are eight main steps:
 7. Present your solution.
 8. Launch, monitor and maintain your system.
 
+Remember to adapt this checklist as per your needs.
+
 ![](/assets/images/checklist.jpg)
 
 ### Frame the problem and Look at the Big Picture
@@ -79,7 +81,6 @@ Notes:
 
 - Work on copies of the data (keep the original dataset intact).
 - Write functions for all the data transformations you apply, for five reasons:
-
   - So you can easily prepare the data the next time you get a fresh dataset
   - So you can apply these transformations in future projects
   - To clean and prepare the test set
@@ -148,3 +149,5 @@ Notes:
    - Measuring performance may require a human pipeline (e.g., via a crowdsourcing service).
    - Also monitor your inputs' quality (e.g., a malfunctioning sensor sending random values, or another team's output becoming stale). This is particularly important for **online learning systems**.
 3. Retrain your models on a regular basis on fresh data (automate as much as possible).
+
+`Credits: Hands-On Machine Learning with Scikit-Learn & TensorFlow By Aurelien Geron`
