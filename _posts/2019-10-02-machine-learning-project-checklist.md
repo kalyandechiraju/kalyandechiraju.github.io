@@ -5,6 +5,7 @@ date: 2019-10-02 10:00:00 +0530
 image: "/assets/images/checklist.jpg"
 # avatar: "img/avatar.jpeg"
 categories: machinelearning
+featured: true
 ---
 
 This checklist can guide you through your Machine Learning projects.
