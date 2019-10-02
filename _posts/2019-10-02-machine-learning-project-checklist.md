@@ -2,7 +2,7 @@
 layout: post
 title: "Machine Learning project checklist"
 date: 2019-10-02 10:00:00 +0530
-image: "/assets/images/checklist.jpg"
+image: "assets/images/checklist.jpg"
 # avatar: "img/avatar.jpeg"
 categories: machinelearning
 featured: true
