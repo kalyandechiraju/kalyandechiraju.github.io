@@ -7,8 +7,6 @@ avatar: "img/avatar.jpeg"
 categories: machinelearning
 ---
 
-![checklist.png](/assets/images/checklist.jpg)
-
 # ML-Project-Checklist
 
 This checklist can guide you through your Machine Learning projects.
@@ -23,6 +21,8 @@ There are eight main steps:
 6. Fine-tune your models and combine them into the best ones.
 7. Present your solution.
 8. Launch, monitor and maintain your system.
+
+![](/assets/images/checklist.jpg)
 
 ### Frame the problem and Look at the Big Picture
 
