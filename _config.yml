@@ -29,6 +29,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-admin
 
 # Archives
 jekyll-archives:
@@ -37,6 +38,14 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: "/category/:name/"
+
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
 
 # Pagination
 paginate: 6
