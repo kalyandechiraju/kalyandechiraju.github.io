@@ -39,13 +39,13 @@ jekyll-archives:
   permalinks:
     category: "/category/:name/"
 
-jekyll_admin:
-  hidden_links:
-    - posts
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
+# jekyll_admin:
+#   hidden_links:
+#     - posts
+#     - pages
+#     - staticfiles
+#     - datafiles
+#     - configuration
 
 # Pagination
 paginate: 6
